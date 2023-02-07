@@ -80,9 +80,3 @@ button1 = tk.Button(root, text='Take information', command=weather_checker)
 button1.grid()
 
 root.mainloop()
-
-
-
-
-
-
